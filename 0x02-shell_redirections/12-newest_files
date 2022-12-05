@@ -1,0 +1,2 @@
+#!/bin/bashsh
+ls -1 --sort=time | head -n 10
